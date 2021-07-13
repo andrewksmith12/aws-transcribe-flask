@@ -1,0 +1,81 @@
+h1{
+    font-family: 'Roboto';
+    font-weight: 500;
+    margin:1% 0%;
+}
+
+h2, h3, h4, h5, h6{
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Roboto';
+}
+.navbar-brand{
+    font-family:'Roboto';
+    font-weight: 500;
+}
+.row{
+    margin:2% 0%;
+}
+body{
+    background-color:#EE3A29 !important;
+}
+#mainDesc{
+	padding-left : 10%;
+}
+.bg-custom{
+    background-color:#E4E1DE !important;
+}
+
+.namePhoto{
+    text-align: center;
+    align-items: center;
+}
+
+link{
+    color: black
+}
+
+hover{
+    color: grey
+}
+
+visited{
+    color: rgb(110, 110, 110)
+}
+
+/* Moved from homePage.css*/
+
+
+
+
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+bottom: .5em;
+}
+
+#tableBody{
+height: 100;
+background-image: linear-gradient(#EE3A29, #EE3A29);
+
+}
+
+#homeBody{
+	background-color: #EE3A29;
+}
+
+#infobox{
+	margin:3%;
+	background-color: #E4E1DE;
+	align-items:center;
+}
